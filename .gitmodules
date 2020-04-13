@@ -1,0 +1,3 @@
+[submodule "torchpolynomial"]
+	path = torchpolynomial
+	url = https://github.com/joedaws/torchpolynomial
