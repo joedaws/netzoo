@@ -1,3 +1,6 @@
 [submodule "torchpolynomial"]
 	path = torchpolynomial
 	url = https://github.com/joedaws/torchpolynomial
+[submodule "torchspline"]
+	path = torchspline
+	url = https://github.com/joedaws/torchspline
